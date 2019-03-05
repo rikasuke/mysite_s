@@ -10,13 +10,11 @@ body {
 a {
   text-decoration: none;
 }
-
 li {
   list-style: none;
 }
 
 .wrapper {
-  position: absolute;
   width: 100%;
   margin: 0,auto;
   background-color: #ddd;
@@ -49,7 +47,7 @@ h1 {
   left: 300px;
   padding: 0 10px;
   display: inline;
-;
+  font-family: 'Sawarabi Gothic', sans-serif;
 }
 
 .sub_nav1 {
